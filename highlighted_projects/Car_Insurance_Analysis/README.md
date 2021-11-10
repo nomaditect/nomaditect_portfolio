@@ -64,8 +64,8 @@ For further visualisations check out our Notebook.
 
 ## Key Take Aways
 
-The model was able to predict a claim amount of +/- 9,314.34 USD @ 77.7% prediction rate
-Personally i have little to no faith in this model, but hey it was fun!
+* The model was able to predict a claim amount of +/- 9,314.34 USD @ 77.7% prediction rate
+* Personally i have little to no faith in this model, but hey it was fun!
 
 
 Thank you for reading!
