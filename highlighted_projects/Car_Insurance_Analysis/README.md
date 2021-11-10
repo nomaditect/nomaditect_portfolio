@@ -51,3 +51,5 @@ Machine Learning Model: using scikit learn
 * Personally i have little to no faith in this model, but hey it was fun!
 
 Thank you for reading! 🍩
+
+and thank you [Josephine Biedermann](https://github.com/JosephineBiedermann/ironhack-case-study-classification) for the inspo.
