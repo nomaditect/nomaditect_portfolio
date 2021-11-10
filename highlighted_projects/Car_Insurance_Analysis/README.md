@@ -1,11 +1,11 @@
 ## Car_Insurance_Analysis
+Analysis + prediction, evaluation- continue on monday
+
+by Simon Stewart, October 2021
 
 
-by Simon Stewart, April 2021
-
-
-Prediciting if a bank customer accepts or declines an offer for a new credit card
-Classification Case Study
+## Predicting car insurance claim amounts
+## linear regression  Case Study
 
 ## Table of content
 Project Brief
