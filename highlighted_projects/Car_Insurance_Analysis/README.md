@@ -10,7 +10,7 @@ by [Simon Stewart](https://github.com/nomaditect), October 2021
 - [Scenario](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis#scenario)
 - [Data](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis#data)
 - [Process & Tools](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis#process--tools)
-- [Summary-take aways](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis#Summary)
+- [Summary](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis#Summary)
 
 ## Project Brief
 
@@ -53,7 +53,7 @@ Machine Learning Model: using scikit learn
 * Code: Jupyter Notebook - Link to code folder
 * Visualizations: Python
 
-## Summary | take aways
+## Summary
 
 * The model was able to predict a claim amount of +/- 9,314.34 USD @ 77.7% prediction rate
 * Upgrade: replace 0 income with a mean variable? # run a forloop replacing 0 with mean.
