@@ -54,13 +54,12 @@ Machine Learning Model: using scikit learn
 - iteration 4 (X_i4): encoding numerical features to categorical ones
 - iteration 5 (X_i5): using KNN on the i3
 
-## Tools
+## Tools + Libraries
 
 Database: 
 Vizualizations: seaborn / matplotlib
 Code: Jupyter Notebook - Link to code folder
-Visualizations
-For further visualisations check out our Notebook.
+Visualizations: Python
 
 ## Key Take Aways
 
