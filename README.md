@@ -10,7 +10,7 @@
 
 
 ## highlighted projects
-* [My github](https://github.com/nomaditect)
+* [Car_Insurance_Analysis](https://github.com/nomaditect/nomaditect_portfolio/tree/main/projects/Car_Insurance_Analysis)
 *
 *
 
