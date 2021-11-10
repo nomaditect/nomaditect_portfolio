@@ -1,4 +1,5 @@
 # Car_Insurance_Prediction
+## Predicting car insurance claim amounts - a linear regression Case Study
 
 ![car-into-building-2](https://user-images.githubusercontent.com/44263926/141156920-cda15317-b9ed-4095-bf72-1e8de4634eb4.jpeg)
 
@@ -6,7 +7,6 @@
 by [Simon Stewart](https://github.com/nomaditect), October 2021
 
 
-## Predicting car insurance claim amounts - a linear regression Case Study
 
 ## Table of content
 - [Project Brief](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis#project-brief)
