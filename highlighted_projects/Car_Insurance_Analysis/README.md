@@ -56,24 +56,17 @@ Machine Learning Model: using scikit learn
 
 ## Tools
 
-Database: MyWorkbench - Link to SQL folder
-Vizualizations: Tableau / seaborn / matplotlib
+Database: 
+Vizualizations: seaborn / matplotlib
 Code: Jupyter Notebook - Link to code folder
 Visualizations
-For further visualisations check out our Tableau workbook or the presentation we've done below.
+For further visualisations check out our Notebook.
 
-Tableau
-Presentation
+## Key Take Aways
 
-##Key Take Aways
+The model was able to predict a claim amount of +/- 9,314.34 USD @ 77.7% prediction rate
+Personally i have little to no faith in this model, but hey it was fun!
 
-1. Our model can predict a customer accepting or declining the credit card offer with an accuracy of 84%
-2. We suspect the following features to impact the customers decision to accept the most:
-mailer type
-credit rating
-income level
-reward
+
 Thank you for reading!
 If you have any questions, please reach out to us.
-
-Team 🧙‍♀️
