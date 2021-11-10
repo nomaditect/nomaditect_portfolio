@@ -7,12 +7,11 @@ by [Simon Stewart](https://github.com/nomaditect), October 2021
 ### a linear regression Case Study
 
 ## Table of content
-* Project Brief
-* Data
-* Process & Tools
-* Visualization
-* Key Take Aways
-* Project Brief
+- [Project Brief](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#project-brief)
+- [Data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#data)
+- [Process & Tools](https://github.com/lillaszulyovszky/ironhack-case-study-classification#process--tools)
+- [Visualization](https://github.com/lillaszulyovszky/ironhack-case-study-classification#visualizations)
+- [Key Take Aways](https://github.com/lillaszulyovszky/ironhack-case-study-classification#key-take-aways)
 
 ## Scenario: 
 
