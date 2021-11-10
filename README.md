@@ -3,9 +3,14 @@
 
 
 ## hi my name is Simon Stewart
+*
+*
 
 
 ## highlighted projects
+*
+*
+*
 
 
 ## links
