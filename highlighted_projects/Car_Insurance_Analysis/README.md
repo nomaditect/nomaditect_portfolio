@@ -1,9 +1,9 @@
 # Car_Insurance_Prediction
-## predicting car insurance claims
+### predicting car insurance claims, a linear regression case study...
 
 ![car-into-building-2](https://user-images.githubusercontent.com/44263926/141156920-cda15317-b9ed-4095-bf72-1e8de4634eb4.jpeg)
 
-## a linear regression case study...
+
 
 
 by [Simon Stewart](https://github.com/nomaditect), October 2021
