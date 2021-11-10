@@ -2,10 +2,7 @@
 #### This is where I store my work
 
 
-## hi my name is Simon Stewart
-![2e31b87e295c9a10f5f68b94fe4727bd-sticker](https://user-images.githubusercontent.com/44263926/141116364-a23936bb-6758-4d7a-9eec-9626cd4a0e55.png)
-
-<img src="https://user-images.githubusercontent.com/44263926/141116364-a23936bb-6758-4d7a-9eec-9626cd4a0e55.png" width="100" height="100"> 
+## hi my name is Simon Stewart <img src="https://user-images.githubusercontent.com/44263926/141116364-a23936bb-6758-4d7a-9eec-9626cd4a0e55.png" width="100" height="100"> 
 
 *
 
