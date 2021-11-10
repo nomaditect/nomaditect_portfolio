@@ -2,4 +2,4 @@
 
 This is where I store my work
 
-## Hi My name is Simon Stewart
+## hi my name is Simon Stewart
