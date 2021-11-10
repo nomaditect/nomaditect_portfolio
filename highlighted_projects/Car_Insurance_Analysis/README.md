@@ -38,7 +38,7 @@ EDA: assessment of dataframe to prepare for cleaning
 Prepocessing: 3 methods - Normalizer, Dummies and SMOTE
 Machine Learning Model: using scikit learn
 
-### Tools + Libraries
+### libraries + tools
 
 * Dataset: [car_insurance_cleaned_dataset](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis/Datasets)
 * Vizualizations: seaborn / matplotlib
