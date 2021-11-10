@@ -10,7 +10,7 @@ by [Simon Stewart](https://github.com/nomaditect), October 2021
 - [Scenario](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis#scenario)
 - [Data](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis#data)
 - [Process & Tools](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis#process--tools)
-- [Summary-take aways](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis#key-take-aways)
+- [Summary-take aways](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis#Summary--|--take aways)
 
 ## Project Brief
 
