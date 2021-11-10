@@ -7,10 +7,10 @@ by [Simon Stewart](https://github.com/nomaditect), October 2021
 
 ## Table of content
 - [Project Brief](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis#project-brief)
-- [Scenario](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#scenario)
-- [Data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#data)
-- [Process & Tools](https://github.com/lillaszulyovszky/ironhack-case-study-classification#process--tools)
-- [Summary-take aways](https://github.com/lillaszulyovszky/ironhack-case-study-classification#key-take-aways)
+- [Scenario](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis#scenario)
+- [Data](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis#data)
+- [Process & Tools](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis#process--tools)
+- [Summary-take aways](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis#key-take-aways)
 
 ## Project Brief
 
