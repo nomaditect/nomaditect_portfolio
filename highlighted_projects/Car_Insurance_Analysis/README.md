@@ -3,8 +3,8 @@
 by [Simon Stewart](https://github.com/nomaditect), October 2021
 
 
-## Predicting car insurance claim amounts ### a linear regression Case Study
-### a linear regression Case Study
+## Predicting car insurance claim amounts
+#### a linear regression Case Study
 
 ## Table of content
 - [Project Brief](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#project-brief)
