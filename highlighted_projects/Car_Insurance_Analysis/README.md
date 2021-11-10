@@ -1,11 +1,10 @@
-## Car_Insurance_Analysis
-Analysis + prediction, evaluation- continue on monday
+## Car_Insurance_Prediction
 
-by Simon Stewart, October 2021
+by [Simon Stewart](https://github.com/nomaditect), October 2021
 
 
 ## Predicting car insurance claim amounts
-## linear regression  Case Study
+### linear regression Case Study
 
 ## Table of content
 Project Brief
