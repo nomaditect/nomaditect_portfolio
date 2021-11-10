@@ -7,15 +7,19 @@ by [Simon Stewart](https://github.com/nomaditect), October 2021
 
 ## Table of content
 - [Project Brief](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#project-brief)
+- [Scenario](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#scenario)
 - [Data](https://github.com/lillaszulyovszky/ironhack-case-study-classification/blob/main/README.md#data)
 - [Process & Tools](https://github.com/lillaszulyovszky/ironhack-case-study-classification#process--tools)
 - [Summary-take aways](https://github.com/lillaszulyovszky/ironhack-case-study-classification#key-take-aways)
 
-## Scenario: 
+## Project Brief
 
-The aim of this study was to perform an analysis
+The aim of this study/project was to perform a detailed analysis on a given data-set of car insurance customers. One of the main objectives was to excercise the tools that we have learnt as well as python libraries to perform a 
+* 
 
 We are risk analysts employed at a bank. Our team is focusing on credit card services. We are given data from 18.000 of our customers and our boss wants us to work out how we can improve our credit card marketing campaign.
+
+## Scenario
 
 ## Challenge: 
 Use the given data set to find out what characteristics impact the customers decision on accepting or declining our credit card offer.
