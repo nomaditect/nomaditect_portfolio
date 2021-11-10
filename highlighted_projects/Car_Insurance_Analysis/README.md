@@ -1,22 +1,21 @@
 # Car_Insurance_Prediction
-## Predicting car insurance claim amounts
+## predicting car insurance claims
 
 ![car-into-building-2](https://user-images.githubusercontent.com/44263926/141156920-cda15317-b9ed-4095-bf72-1e8de4634eb4.jpeg)
 
-## a linear regression Case Study
+## a linear regression case study...
 
 
 by [Simon Stewart](https://github.com/nomaditect), October 2021
 
 
 ## Table of content
-- [Project Brief](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis#project-brief)
 - [Scenario](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis#scenario)
 - [Data](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis#data)
 - [Process & Tools](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis#process--tools)
 - [Summary](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis#Summary)
 
-## Project Brief
+## Scenario
 
 The aim of this study/project was to perform a detailed analysis on a given car insurance data-set. The main objectives was to excercise the tools that we have learnt as well as python libraries to perform a the analysis.
 * Analyse
@@ -25,13 +24,6 @@ The aim of this study/project was to perform a detailed analysis on a given car 
 * Standardize + Normalize
 * Run ML Linear Regression
 * Conclude findings
-
-## Scenario
-
-
-
-## Problem: 
-Can we build a machine learning model that predicts if our customer accepts or declines the credit card offer?
 
 ## Data
 The original limited dataset was provided as part of a bootcamp project.
