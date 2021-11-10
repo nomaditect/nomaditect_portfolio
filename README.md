@@ -11,8 +11,13 @@
 
 ## highlighted projects
 * [Car_Insurance_Analysis](https://github.com/nomaditect/nomaditect_portfolio/tree/main/projects/Car_Insurance_Analysis)
-*
-*
+* Messy_Data
+* Iris
+* midbootcamp
+* finalbootcamp
+
+
+
 
 
 ## links
