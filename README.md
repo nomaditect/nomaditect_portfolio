@@ -10,7 +10,7 @@
 
 
 ## highlighted projects
-*
+* [My github](https://github.com/nomaditect)
 *
 *
 
