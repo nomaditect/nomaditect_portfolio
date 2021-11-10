@@ -56,14 +56,15 @@ Machine Learning Model: using scikit learn
 
 ## Tools + Libraries
 
-Database: 
-Vizualizations: seaborn / matplotlib
-Code: Jupyter Notebook - Link to code folder
-Visualizations: Python
+* Database: [car_insurance_cleaned_dataset](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis/Datasets)
+* Vizualizations: seaborn / matplotlib
+* Code: Jupyter Notebook - Link to code folder
+* Visualizations: Python
 
 ## Key Take Aways
 
 * The model was able to predict a claim amount of +/- 9,314.34 USD @ 77.7% prediction rate
+* Upgrade: replace 0 income with a mean variable? # run a forloop replacing 0 with mean.
 * Personally i have little to no faith in this model, but hey it was fun!
 
 
