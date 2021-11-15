@@ -1,6 +1,8 @@
-# Car_Insurance_Prediction
+# Car_Insurance_Prediction<img width="805" alt="Screenshot 2021-11-15 at 10 19 40" src="https://user-images.githubusercontent.com/44263926/141755813-3a9c8398-cd47-496c-91ce-3bc84c4475b6.png">
+
 
 ![car-into-building-2](https://user-images.githubusercontent.com/44263926/141156920-cda15317-b9ed-4095-bf72-1e8de4634eb4.jpeg)
+
 ### predicting car insurance claims, a linear regression study...
 
 by [Simon Stewart](https://github.com/nomaditect), October 2021
