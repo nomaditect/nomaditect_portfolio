@@ -8,7 +8,7 @@
 
 ## highlighted projects
 * [midbootcamp](https://github.com/nomaditect/mid_bootcamp_project) 🌿
-* [Car_Insurance_Analysis](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis) 👈👈👈👈�
+* [Car_Insurance_Analysis](https://github.com/nomaditect/nomaditect_portfolio/tree/main/highlighted_projects/Car_Insurance_Analysis) 🚗💨
 * Messy_Data 📈
 * Iris 🌺
 * finalbootcamp 🌲
