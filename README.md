@@ -14,7 +14,7 @@
 * finalbootcamp 🌲
 
 ## favourite excercises
-* [tracking Hurricane](https://github.com/nomaditect/IronHackLabs/blob/main/Week06/geospatial/Hurricane/Hurricane_geo01_20201125.ipynb)
+* [tracking Hurricane](https://github.com/nomaditect/IronHackLabs/blob/main/Week06/geospatial/Hurricane/Hurricane_geo01_20201125.ipynb)🌪
 * 
 * 
 
