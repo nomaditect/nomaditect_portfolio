@@ -32,6 +32,7 @@
 
 [My Tableau](https://public.tableau.com/app/profile/simon.stewart)
 
+![github stats](https://github-readme-stats.vercel.app/api?username=nomaditect&show_icons=true)
 
 🌊🌊🌊
 ------------
